@@ -1,0 +1,23 @@
+Pokyny na odovzdávanie programov z ATG
+
+MALO BY BYT FUNKCNE
+
+Naprogramujte:
+ Fordov – Fulkersonov algoritmus na hľadanie maximálneho toku v sieti.
+
+ Program bude obsahovať:
+    načítanie vstupných údajov zo súboru,  done
+    hľadanie zväčšujúcej polocesty, done
+    hľadanie maximálneho toku v sieti, done
+    výpis veľkosti maximálneho toku, done
+    výpis tokov na hranách siete. done
+
+ Program otestujte na dátových súboroch v adresári TOKY,
+
+
+ ktoré nájdete tu:http://frcatel.fri.uniza.sk/users/paluch/Prezentacie/PrikladyATG.pdf
+ Súbor s programom (bez komentárov) odovzdajte na moodle do aktivity Tok – Borčinová.
+
+ Dátové súbory neodovzdávajte!!!
+
+ Termín odovzdania:  14. 5. 2023
